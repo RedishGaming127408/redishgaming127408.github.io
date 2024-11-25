@@ -1,10 +1,8 @@
 const CONFIG = { 
     titleWeb: "Website Title",
-    introTitle: 'Your Lover\'s Name',
-    introDesc: `The Earth is inherently strange
-    But why do you keep taking the wrong path
-    Wandering into my lonely heart
-    Behind the word "love" is "care"`,
+    introTitle: 'Hi po:>',
+    introDesc: `guess what, the note was set to specific person :> only u saw my notes hihi. this is a confession :>, 
+    yes, Shane I like u po :>>`,
     btnIntro: '^^HiHi^^',
     title: 'Did you fall in love at first sight 🥰',
     desc: 'Did you fall for that smile from the very first moment',
