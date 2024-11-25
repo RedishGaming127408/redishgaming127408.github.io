@@ -9,6 +9,7 @@ const CONFIG = {
     btnYes: 'Yes! <33',
     btnNo: 'Nope :3',
     question: 'Anyways po ano pu ba thoughts mo po sakin?',
+    reply: 'your kind and handsome ' ,
     btnReply: 'Send reply<3',
     mess: 'Thank you po hehe :>>> ٩(◕‿◕)۶. Love you soo much ꒰ღ˘‿˘ற꒱💝',
     messDesc: 'redirect po kita sa fb ko hihi',
