@@ -111,32 +111,21 @@ $('#yes').click(function() {
     var audio = new Audio('sound/tick.mp3');
     audio.play();
     Swal.fire({
-        title: CONFIG.question,
-        html: true,
+        title: CONFIG.mess, // Display the message directly
+        text: CONFIG.messDesc, // Optional detailed message
         width: 900,
         padding: '3em',
-        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Whyyy'>",
         background: '#fff url("img/iput-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
               url("img/giphy2.gif")
               left top
               no-repeat
-            `,
-        confirmButtonColor: '#3085d6',
-        confirmButtonColor: '#fe8a71',
-        confirmButtonText: CONFIG.btnReply
-    }).then((result) => {
-        if (result.value) {
-            Swal.fire({
-                width: 900,
-                confirmButtonText: CONFIG.btnAccept,
-                background: '#fff url("img/iput-bg.jpg")',
-                title: CONFIG.mess,
-                text: CONFIG.messDesc,
-                confirmButtonColor: '#83d0c9',
-                onClose: () => {
-                    window.location = CONFIG.messLink;
+        `,
+        confirmButtonColor: '#83d0c9',
+        confirmButtonText: CONFIG.btnAccept,
+    }).then(() => {
+        window.location = CONFIG.messLink; // Redirect after confirmation
                 }
             })
         }
