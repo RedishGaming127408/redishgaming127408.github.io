@@ -1,5 +1,5 @@
 const CONFIG = { 
-    titleWeb: "Website Title",
+    titleWeb: "Hi po :>",
     introTitle: 'Hi po:>',
     introDesc: `guess what, the note was set to specific person :> only u saw my notes hihi. this is a confession :>, 
     yes, Shane I like u po :>>`,
