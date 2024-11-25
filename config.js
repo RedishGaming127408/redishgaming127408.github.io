@@ -8,7 +8,7 @@ const CONFIG = {
     desc: 'Is it okay pu ba na to chat you?',
     btnYes: 'Yes! <33',
     btnNo: 'Nope :3',
-    question: '',
+    question: 'What do u think about me po :>',
     btnReply: 'Send to you <3',
     reply: 'Love is love, and if not love, then still love <33333333',
     mess: 'I knew it 🥰. Love you so much 😘😘',
