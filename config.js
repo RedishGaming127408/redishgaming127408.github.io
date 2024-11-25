@@ -10,7 +10,7 @@ const CONFIG = {
     btnNo: 'Nope :3',
     question: 'Anyways po ano pu ba thoughts mo po sakin?',
     btnReply: 'Send reply<3',
-    mess: 'Thank you po hehe :>>> ٩(◕‿◕)۶. Love you soo much ꒰ღ˘‿˘ற꒱❤⃛',
+    mess: 'Thank you po hehe :>>> ٩(◕‿◕)۶. Love you soo much ꒰ღ˘‿˘ற꒱💝',
     messDesc: 'redirect po kita sa fb ko hihi',
     btnAccept: 'Okieee <3',
     messLink: 'https://m.me/jhian.manacpo' //your message link. E.g.: https://www.facebook.com/messages/t/100014188333536
