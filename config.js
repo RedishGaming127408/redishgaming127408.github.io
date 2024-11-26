@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Thank you po hehe :>>> ٩(◕‿◕)۶. Love you soo much ꒰ღ˘‿˘ற꒱💝',
     messDesc: 'redirect po kita sa fb ko hihi',
     btnAccept: 'Okieee <3',
-    messLink: 'https://m.me/jhian.manacpo' //your message link. E.g.: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://m.me/jhian.manacpo?ref=Hello%20Jhian!' //your message link. E.g.: https://www.facebook.com/messages/t/100014188333536
 };
